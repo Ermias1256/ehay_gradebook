@@ -1,0 +1,15 @@
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\bin\Debug\net7.0\gradebook.exe
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\bin\Debug\net7.0\gradebook.deps.json
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\bin\Debug\net7.0\gradebook.runtimeconfig.json
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\bin\Debug\net7.0\gradebook.dll
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\bin\Debug\net7.0\gradebook.pdb
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.csproj.AssemblyReference.cache
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.AssemblyInfoInputs.cache
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.AssemblyInfo.cs
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.csproj.CoreCompileInputs.cache
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.dll
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\refint\gradebook.dll
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.pdb
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\gradebook.genruntimeconfig.cache
+D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\obj\Debug\net7.0\ref\gradebook.dll
