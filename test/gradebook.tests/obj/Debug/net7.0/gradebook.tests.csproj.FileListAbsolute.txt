@@ -97,3 +97,9 @@ D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\obj\Debug\net7.0
 D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\obj\Debug\net7.0\gradebook.tests.pdb
 D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\obj\Debug\net7.0\gradebook.tests.genruntimeconfig.cache
 D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\obj\Debug\net7.0\ref\gradebook.tests.dll
+D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\bin\Debug\net7.0\gradebook.deps.json
+D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\bin\Debug\net7.0\gradebook.runtimeconfig.json
+D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\bin\Debug\net7.0\gradebook.exe
+D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\bin\Debug\net7.0\gradebook.dll
+D:\dev\personal_prjs\ehay_csharp_gradebook\test\gradebook.tests\bin\Debug\net7.0\gradebook.pdb

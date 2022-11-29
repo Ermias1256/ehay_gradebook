@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = gradebook
-build_property.ProjectDir = d:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\
+build_property.ProjectDir = D:\dev\personal_prjs\ehay_csharp_gradebook\src\gradebook\
